@@ -8,13 +8,13 @@
         "name": "广东",
         "lng": 113.266530,
         "lat": 23.132191,
-        "num_total": 14
+        "num_total": 17
       },
       {
         "name": "北京",
         "lng": 116.397755,
         "lat": 39.903179,
-        "num_total": 5
+        "num_total": 10
       },
       {
         "name": "浙江",
