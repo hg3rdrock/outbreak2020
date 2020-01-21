@@ -1,0 +1,14 @@
+.info {
+  background: #363F49;
+  color: #A0A7B4;
+  padding: 10px;
+  max-width: 200px;
+  min-width: 100px;
+  font-size: 12px;
+}
+
+.info tr .content {
+  text-align: right;
+  color: #D3D8E0;
+  max-width: 160px;
+}
