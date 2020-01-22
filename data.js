@@ -32,7 +32,7 @@
         "name": "上海",
         "lng": 121.47,
         "lat": 31.23,
-        "num_total": 6
+        "num_total": 9
       },
       {
         "name": "重庆",
