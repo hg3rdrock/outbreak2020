@@ -32,7 +32,7 @@
         "name": "上海",
         "lng": 121.47,
         "lat": 31.23,
-        "num_total": 9
+        "num_total": 16
       },
       {
         "name": "重庆",
@@ -92,7 +92,7 @@
         "name": "广西",
         "lng": 108.327546,
         "lat": 22.815478,
-        "num_total": 2
+        "num_total": 5
       },
       {
         "name": "福建",
