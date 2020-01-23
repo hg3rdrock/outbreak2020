@@ -196,6 +196,12 @@
         "lat": 37.33,
         "num_total": 1
       },
+      {
+        "name": "新加坡",
+        "lng": 103.852,
+        "lat": 1.290,
+        "num_total": 1
+      },
       // {
       //   "name": "Snohomish County",
       //   "lng": -122.0969444,
