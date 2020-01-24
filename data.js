@@ -188,13 +188,13 @@
         "name": "泰国",
         "lng": 100.66471,
         "lat": 13.82031,
-        "num_total": 4
+        "num_total": 5
       },
       {
         "name": "台湾",
         "lng": 120.89398,
         "lat": 23.85847,
-        "num_total": 1
+        "num_total": 3
       },
       {
         "name": "日本",
