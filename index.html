@@ -52,16 +52,18 @@
       style: {
         radius: (res) => {
           let record = res.value;
-          return record.num_total >= 150? Math.pow(record.num_total, 0.2) * 9 : Math.pow(record.num_total, 0.3) * 9;
+          return record.num_total >= 150? Math.pow(record.num_total, 0.22) * 9 : Math.pow(record.num_total, 0.3) * 8;
         },
         color: (res) => {
           let record = res.value;
           if (record.num_total > 100) {
-            return '#752100';
+            // return '#752100';
+            // return '#96514d';
+            return '#a73836';
           } else if (record.num_total > 10) {
             return '#ea5506';
           } else {
-            return '#ec6d71';
+            return '#f3bf88';
           }
         }
       }
