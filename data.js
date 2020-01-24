@@ -14,7 +14,7 @@
         "name": "北京",
         "lng": 116.397755,
         "lat": 39.903179,
-        "num_total": 26
+        "num_total": 29
       },
       {
         "name": "浙江",
@@ -26,7 +26,7 @@
         "name": "天津",
         "lng": 117.200983,
         "lat": 39.084158,
-        "num_total": 6
+        "num_total": 7
       },
       {
         "name": "上海",
@@ -86,7 +86,7 @@
         "name": "宁夏",
         "lng": 106.258754,
         "lat": 38.471317,
-        "num_total": 1
+        "num_total": 2
       },
       {
         "name": "内蒙古",
@@ -116,7 +116,7 @@
         "name": "福建",
         "lng": 119.295144,
         "lat": 26.100779,
-        "num_total": 9
+        "num_total": 10
       },
       {
         "name": "贵州",
@@ -218,7 +218,7 @@
         "name": "新加坡",
         "lng": 103.852,
         "lat": 1.290,
-        "num_total": 1
+        "num_total": 3
       },
       // {
       //   "name": "Snohomish County",
