@@ -182,7 +182,7 @@
         "name": "香港",
         "lng": 114.173355,
         "lat": 22.320048,
-        "num_total": 2
+        "num_total": 5
       },
       {
         "name": "泰国",
@@ -219,6 +219,12 @@
         "lng": 103.852,
         "lat": 1.290,
         "num_total": 3
+      },
+      {
+        "name": "尼泊尔",
+        "lng": 83.944,
+        "lat": 28.259,
+        "num_total": 1
       },
       // {
       //   "name": "Snohomish County",
