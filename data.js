@@ -206,7 +206,7 @@
         "name": "韩国",
         "lng": 126.58,
         "lat": 37.33,
-        "num_total": 1
+        "num_total": 2
       },
       {
         "name": "新加坡",
