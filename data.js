@@ -14,7 +14,7 @@
         "name": "北京",
         "lng": 116.397755,
         "lat": 39.903179,
-        "num_total": 36
+        "num_total": 41
       },
       {
         "name": "浙江",
@@ -26,7 +26,7 @@
         "name": "天津",
         "lng": 117.200983,
         "lat": 39.084158,
-        "num_total": 9
+        "num_total": 10
       },
       {
         "name": "上海",
@@ -128,19 +128,19 @@
         "name": "云南",
         "lng": 102.710002,
         "lat": 25.045806,
-        "num_total": 5
+        "num_total": 11
       },
       {
         "name": "海南",
         "lng": 110.349228,
         "lat": 20.017377,
-        "num_total": 17
+        "num_total": 19
       },
       {
         "name": "辽宁",
         "lng": 123.429440,
         "lat": 41.835441,
-        "num_total": 15
+        "num_total": 16
       },
       {
         "name": "安徽",
