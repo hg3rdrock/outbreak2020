@@ -14,7 +14,7 @@
         "name": "北京",
         "lng": 116.397755,
         "lat": 39.903179,
-        "num_total": 51
+        "num_total": 54
       },
       {
         "name": "浙江",
@@ -26,7 +26,7 @@
         "name": "天津",
         "lng": 117.200983,
         "lat": 39.084158,
-        "num_total": 10
+        "num_total": 13
       },
       {
         "name": "上海",
@@ -50,7 +50,7 @@
         "name": "四川",
         "lng": 104.075931,
         "lat": 30.651651,
-        "num_total": 28
+        "num_total": 44
       },
       {
         "name": "江西",
@@ -80,19 +80,19 @@
         "name": "河北",
         "lng": 114.468664,
         "lat": 38.037057,
-        "num_total": 8
+        "num_total": 13
       },
       {
         "name": "宁夏",
         "lng": 106.258754,
         "lat": 38.471317,
-        "num_total": 3
+        "num_total": 4
       },
       {
         "name": "内蒙古",
         "lng": 111.765617,
         "lat": 40.817498,
-        "num_total": 2
+        "num_total": 7
       },
       {
         "name": "甘肃",
@@ -134,19 +134,19 @@
         "name": "海南",
         "lng": 110.349228,
         "lat": 20.017377,
-        "num_total": 19
+        "num_total": 22
       },
       {
         "name": "辽宁",
         "lng": 123.429440,
         "lat": 41.835441,
-        "num_total": 17
+        "num_total": 19
       },
       {
         "name": "安徽",
         "lng": 117.284922,
         "lat": 31.861184,
-        "num_total": 39
+        "num_total": 60
       },
       {
         "name": "黑龙江",
@@ -170,7 +170,7 @@
         "name": "陕西",
         "lng": 108.954239,
         "lat": 34.265472,
-        "num_total": 15
+        "num_total": 22
       },
       {
         "name": "青海",
@@ -182,7 +182,7 @@
         "name": "澳门",
         "lng": 113.549090,
         "lat": 22.198951,
-        "num_total": 2
+        "num_total": 5
       },
       {
         "name": "香港",
@@ -218,7 +218,7 @@
         "name": "韩国",
         "lng": 126.58,
         "lat": 37.33,
-        "num_total": 2
+        "num_total": 3
       },
       {
         "name": "马来西亚",
