@@ -2,13 +2,13 @@
         "name": "湖北",
         "lng": 114.284878,
         "lat": 30.666894,
-        "num_total": 1423
+        "num_total": 1433
       },
       {
         "name": "广东",
         "lng": 113.266530,
         "lat": 23.132191,
-        "num_total": 146
+        "num_total": 151
       },
       {
         "name": "北京",
@@ -128,19 +128,19 @@
         "name": "云南",
         "lng": 102.710002,
         "lat": 25.045806,
-        "num_total": 19
+        "num_total": 26
       },
       {
         "name": "海南",
         "lng": 110.349228,
         "lat": 20.017377,
-        "num_total": 31
+        "num_total": 33
       },
       {
         "name": "辽宁",
         "lng": 123.429440,
         "lat": 41.835441,
-        "num_total": 24
+        "num_total": 27
       },
       {
         "name": "安徽",
