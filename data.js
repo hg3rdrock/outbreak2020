@@ -8,13 +8,13 @@
         "name": "广东",
         "lng": 113.266530,
         "lat": 23.132191,
-        "num_total": 436
+        "num_total": 520
       },
       {
         "name": "北京",
         "lng": 116.397755,
         "lat": 39.903179,
-        "num_total": 139
+        "num_total": 156
       },
       {
         "name": "浙江",
@@ -26,13 +26,13 @@
         "name": "天津",
         "lng": 117.200983,
         "lat": 39.084158,
-        "num_total": 32
+        "num_total": 37
       },
       {
         "name": "上海",
         "lng": 121.47,
         "lat": 31.23,
-        "num_total": 153
+        "num_total": 169
       },
       {
         "name": "重庆",
@@ -62,13 +62,13 @@
         "name": "湖南",
         "lng": 112.983810,
         "lat": 28.112444,
-        "num_total": 332
+        "num_total": 389
       },
       {
         "name": "山东",
         "lng": 117.020359,
         "lat": 36.668530,
-        "num_total": 202
+        "num_total": 206
       },
       {
         "name": "山西",
@@ -86,13 +86,13 @@
         "name": "宁夏",
         "lng": 106.258754,
         "lat": 38.471317,
-        "num_total": 21
+        "num_total": 26
       },
       {
         "name": "内蒙古",
         "lng": 111.765617,
         "lat": 40.817498,
-        "num_total": 20
+        "num_total": 23
       },
       {
         "name": "甘肃",
@@ -104,7 +104,7 @@
         "name": "新疆",
         "lng": 87.627704,
         "lat": 43.793026,
-        "num_total": 17
+        "num_total": 18
       },
       {
         "name": "广西",
@@ -116,7 +116,7 @@
         "name": "福建",
         "lng": 119.295144,
         "lat": 26.100779,
-        "num_total": 120
+        "num_total": 144
       },
       {
         "name": "贵州",
@@ -128,19 +128,19 @@
         "name": "云南",
         "lng": 102.710002,
         "lat": 25.045806,
-        "num_total": 83
+        "num_total": 91
       },
       {
         "name": "海南",
         "lng": 110.349228,
         "lat": 20.017377,
-        "num_total": 52
+        "num_total": 60
       },
       {
         "name": "辽宁",
         "lng": 123.429440,
         "lat": 41.835441,
-        "num_total": 60
+        "num_total": 63
       },
       {
         "name": "安徽",
@@ -170,13 +170,13 @@
         "name": "陕西",
         "lng": 108.954239,
         "lat": 34.265472,
-        "num_total": 87
+        "num_total": 101
       },
       {
         "name": "青海",
         "lng": 101.780199,
         "lat": 36.620901,
-        "num_total": 8
+        "num_total": 9
       },
       {
         "name": "西藏",
