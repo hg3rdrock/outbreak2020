@@ -52,7 +52,7 @@
       style: {
         radius: (res) => {
           let record = res.value;
-          return record.num_total >= 10? Math.pow(record.num_total, 0.22) * 7 : Math.pow(record.num_total, 0.28) * 6;
+          return record.num_total >= 10? Math.pow(record.num_total, 0.20) * 7 : Math.pow(record.num_total, 0.25) * 6;
         },
         color: (res) => {
           let record = res.value;
