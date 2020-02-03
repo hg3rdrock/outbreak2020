@@ -30,7 +30,7 @@
   <script src="https://webapi.amap.com/maps?v=1.4.15&key=5061d7da5494a4679ba325ac4e4e5c44"></script>
   <script src="https://webapi.amap.com/loca?v=1.3.2&key=5061d7da5494a4679ba325ac4e4e5c44"></script>
   <script src="https://webapi.amap.com/ui/1.0/main.js?v=1.0.11"></script>
-  <script src="data.js"></script>
+  <script src="data_beijing.js"></script>
   <script src="app.js"></script>
   <script>
     var map = new AMap.Map("container", {
@@ -57,7 +57,6 @@
       console.log(data.position);
     }
 
-/*
     var layer = new Loca.RoundPointLayer({
       eventSupport: true,
       fitView: true,
@@ -76,17 +75,12 @@
       style: {
         radius: (res) => {
           let record = res.value;
-          return record.num_total >= 150 ? Math.pow(record.num_total, 0.22) * 9 : Math.pow(record.num_total,
-            0.3) * 8;
+          return 10;
         },
         color: (res) => {
           let record = res.value;
-          if (record.num_total > 100) {
-            // return '#752100';
-            // return '#96514d';
+          if (record.confirmed) {
             return '#a73836';
-          } else if (record.num_total > 10) {
-            return '#ea5506';
           } else {
             return '#f3bf88';
           }
@@ -97,8 +91,8 @@
     layer.on('mouseover', (e) => {
       let rawData = e.rawData;
       openInfoWin(map, e.originalEvent, {
-        'Region': rawData.name,
-        '#Cases': rawData.num_total
+        '小区': rawData.name,
+        '病例': rawData.confirmed ? '确诊' : '疑似|严控'
       })
     });
 
@@ -106,7 +100,7 @@
       closeInfoWin();
     })
 
-    layer.render(); */
+    layer.render(); 
   </script>
 </body>
 
