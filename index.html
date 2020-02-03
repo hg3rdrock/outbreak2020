@@ -56,7 +56,9 @@
         },
         color: (res) => {
           let record = res.value;
-          if (record.num_total > 100) {
+          if (record.num_total > 10000) {
+            return '#683f36';
+          } else if (record.num_total > 100) {
             // return '#752100';
             // return '#96514d';
             return '#a73836';
