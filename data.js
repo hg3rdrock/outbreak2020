@@ -2,13 +2,13 @@
         "name": "湖北",
         "lng": 114.284878,
         "lat": 30.666894,
-        "num_total": 27100
+        "num_total": 29631
       },
       {
         "name": "广东",
         "lng": 113.266530,
         "lat": 23.132191,
-        "num_total": 1120
+        "num_total": 1151
       },
       {
         "name": "北京",
@@ -20,73 +20,73 @@
         "name": "浙江",
         "lng": 120.16317,
         "lat": 30.23375,
-        "num_total": 1075
+        "num_total": 1092
       },
       {
         "name": "天津",
         "lng": 117.200983,
         "lat": 39.084158,
-        "num_total": 90
+        "num_total": 91
       },
       {
         "name": "上海",
         "lng": 121.47,
         "lat": 31.23,
-        "num_total": 292
+        "num_total": 295
       },
       {
         "name": "重庆",
         "lng": 106.551556,
         "lat": 29.563009,
-        "num_total": 446
+        "num_total": 468
       },
       {
         "name": "河南",
         "lng": 113.753602,
         "lat": 34.765515,
-        "num_total": 1033
+        "num_total": 1073
       },
       {
         "name": "四川",
         "lng": 104.075931,
         "lat": 30.651651,
-        "num_total": 386
+        "num_total": 405
       },
       {
         "name": "江西",
         "lng": 115.909228,
         "lat": 28.675696,
-        "num_total": 740
+        "num_total": 771
       },
       {
         "name": "湖南",
         "lng": 112.983810,
         "lat": 28.112444,
-        "num_total": 838
+        "num_total": 879
       },
       {
         "name": "山东",
         "lng": 117.020359,
         "lat": 36.668530,
-        "num_total": 435
+        "num_total": 459
       },
       {
         "name": "山西",
         "lng": 112.562398,
         "lat": 37.873531,
-        "num_total": 115
+        "num_total": 119
       },
       {
         "name": "河北",
         "lng": 114.468664,
         "lat": 38.037057,
-        "num_total": 206
+        "num_total": 218
       },
       {
         "name": "宁夏",
         "lng": 106.258754,
         "lat": 38.471317,
-        "num_total": 45
+        "num_total": 49
       },
       {
         "name": "内蒙古",
@@ -98,73 +98,73 @@
         "name": "甘肃",
         "lng": 103.826308,
         "lat": 36.059421,
-        "num_total": 79
+        "num_total": 83
       },
       {
         "name": "新疆",
         "lng": 87.627704,
         "lat": 43.793026,
-        "num_total": 45
+        "num_total": 49
       },
       {
         "name": "广西",
         "lng": 108.327546,
         "lat": 22.815478,
-        "num_total": 195
+        "num_total": 210
       },
       {
         "name": "福建",
         "lng": 119.295144,
         "lat": 26.100779,
-        "num_total": 250
+        "num_total": 261
       },
       {
         "name": "贵州",
         "lng": 106.707410,
         "lat": 26.598194,
-        "num_total": 96
+        "num_total": 109
       },
       {
         "name": "云南",
         "lng": 102.710002,
         "lat": 25.045806,
-        "num_total": 140
+        "num_total": 141
       },
       {
         "name": "海南",
         "lng": 110.349228,
         "lat": 20.017377,
-        "num_total": 128
+        "num_total": 131
       },
       {
         "name": "辽宁",
         "lng": 123.429440,
         "lat": 41.835441,
-        "num_total": 105
+        "num_total": 107
       },
       {
         "name": "安徽",
         "lng": 117.284922,
         "lat": 31.861184,
-        "num_total": 779
+        "num_total": 830
       },
       {
         "name": "黑龙江",
         "lng": 126.661669,
         "lat": 45.742347,
-        "num_total": 307
+        "num_total": 331
       },
       {
         "name": "吉林",
         "lng": 125.325990,
         "lat": 43.896536,
-        "num_total": 78
+        "num_total": 80
       },
       {
         "name": "江苏",
         "lng": 118.763232,
         "lat": 32.061707,
-        "num_total": 468
+        "num_total": 492
       },
       {
         "name": "陕西",
